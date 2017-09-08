@@ -1,6 +1,6 @@
 #include<graphics.h>
 #include<bits/stdc++.h>
-#define XMAX 639
+#define XMAX 640
 #define YMAX 450
 using namespace std;
 int b_x;
